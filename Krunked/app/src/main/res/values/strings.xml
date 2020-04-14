@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Krunked Kamloops</string>
+    <string name="btn_text_list">List</string>
+    <string name="btn_text_map">Map</string>
+    <string name="btn_text_back">Back</string>
+    <string name="name_of_drink">Martini</string>
+    <string name="price_of_drink">$10.00</string>
+    <string-array name="restaurant_names">
+        <item>Ye Olde Pub</item>
+        <item>Moe\'s Tavern</item>
+        <item>Cheers</item>
+    </string-array>
+    <string-array name="restaurant_locations">
+        <item>123 Fake St.</item>
+        <item>222 Walnut St.</item>
+        <item>84 Beacon St.</item>
+    </string-array>
+    <string name="sun_btn">Sun</string>
+    <string name="mon_btn">Mon</string>
+    <string name="tue_btn">Tue</string>
+    <string name="wed_btn">Wed</string>
+    <string name="thu_btn">Thu</string>
+    <string name="fri_btn">Fri</string>
+    <string name="sat_btn">Sat</string>
+    <string-array name="drink_names">
+        <item>Martini</item>
+        <item>Mudslide</item>
+        <item>Old Fashioned</item>
+    </string-array>
+    <string-array name="drink_prices">
+        <item>$10.00</item>
+        <item>$9.00</item>
+        <item>$12.00</item>
+    </string-array>
+</resources>
